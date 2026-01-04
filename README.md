@@ -10,14 +10,14 @@ Steps to use repository
 ## Project Folder
 scam_guard_ai
 - experiments
--- ex1.ipynb
+    - ex1.ipynb
 - llm
--- prompts
+    - prompts
 - pipeline
--- scam_detector
+    - scam_detector
 - streamlit
--- app.py
+    - app.py
 - main.py
 - utils.py
 - config.py
-- requirements.txt
+- re
