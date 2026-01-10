@@ -1,19 +1,21 @@
 # ScamGuard AI
 Objective: Build an LLM application for detecting scam messages.
 
-LLM Used: flash-lite
+LLM Used: Gemini 2.5 Flash Lite
 
 ## Steps to use repository
 - Clone this repo
+    - `git clone <link_to_git_repo>`
 - Create a virtual environment
-    - `Conda: conda create -n <venv_name> python==3.12 -y`
+    - `Conda: conda create -n <venv_name> python=3.12 -y`
 - Activate virtual environment
     - `Conda: conda activate <venv_name>`
 - Install dependencies
     - `pip install -r requirements.txt`
+- Deactivate virtual environment
+    - `conda deactivate`
 
-
-## Project Folder
+## Project Folder Structure
 scam_guard_ai
 - experiments
     - workflow.ipynb
