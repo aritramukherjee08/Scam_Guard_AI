@@ -36,5 +36,7 @@ class ScamDetector:
             logger.info(f"Detection successful!")
             return parsed_result
 
+    # def detect_in_batch()
+
         except Exception as e:
             logger.error(f"Detection pipeline failed: {e}")

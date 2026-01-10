@@ -19,9 +19,10 @@ scam_guard_ai
     - workflow.ipynb
     - workflow.py
 - llm
-    - prompts
+    - prompt
         - react.md
     - prompts.py
+    - client.py
 - pipeline
     - scam_detector
         - builder.py
